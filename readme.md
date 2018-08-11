@@ -1,1 +1,1 @@
-# Polski standup - mój projekt
+# Polski stand-up - mój projekt
