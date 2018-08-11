@@ -1,3 +1,266 @@
 @import 'globals/reset';
+@import 'rwd';
+@import 'SubPage';
+@import 'mixins';
 
+
+html{
+  height:100%;
+  width:100%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
+
+body{
+  @include font;
+  text-shadow: 5px 5px 5px rgb(0, 0, 0);
+  color: white;
+}
+
+.app, .appy{
+  display: flex;
+  flex-direction: column;
+}
+
+.app header{
+  background-repeat: no-repeat;
+  background-image: url('../background/Audience.jpeg');
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.container{
+  width: 1200px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav{
+  float: right;
+  width: 200px;
+  position: fixed;
+  background-color: black;
+  border-radius: 74px;
+}
+
+.nav__list{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 180px;
+  list-style: none;
+}
+
+.nav__item{
+  margin-right: 10px;
+  font-size: 20px;
+  width: 100px;
+  cursor: pointer;
+}
+
+nav a:-webkit-any-link {
+  color: white;
+}
+
+
+.container__picture {
+  width: 630px;
+  height:auto;
+  text-align: left;
+  font-size: 136px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 160px;
+  text-transform: uppercase;
+  word-spacing: .3em;
+  text-indent: 20px;
+  margin-top: 144px;
+  margin-bottom: 0;
+  display: inline-block;
+  text-shadow: 5px 5px 5px rgba(255, 0, 0, 0.5);
+}
+
+.container__text {
+  width: 681px;
+  font-size: 40px;
+  float: right;
+  margin-top: 47px;
+  text-align: center;
+
+  &--headline {
+    margin: 300px 0 0 0;
+    font-size: 3rem;
+    width: 300px;
+    height: 70px;
+    float: left;
+
+  }
+}
+
+//---------------------------------------------------------MAIN
+
+main{
+  width: 100%;
+  height: 100%;
+}
+
+main .container{
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tabel__artist{
+  margin: 0 25px 0 25px;
+  cursor: pointer;
+  color: white;
+}
+
+.tabel__picture{
+  width: 255px;
+  height: 250px;
+  margin: 10px 25px 0 25px;
+  object-fit: cover;
+
+}
+
+.tabel__artist-name{
+  font-size: 2rem;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  height: 50px;
+  width: 255px;
+  @include gradient;
+}
+
+//---------------------------------------------------------Footer
+
+footer{
+  background-repeat: no-repeat;
+  background-image: url('../background/mike.jpeg');
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+footer .container__text{
+  float: left;
+  height: auto;
+  width: 100%;
+}
+
+.add {
+  text-transform: uppercase;
+  font-size: 46px;
+  width: 350px;
+  height: 30px;
+  margin: 49px 0 0 226px;
+  float: left;
+}
+
+.fullName {
+  width: 618px;
+  height: 63px;
+  margin: 85px 0 0 0;
+  font-size: 32px;
+  padding-left: 15px;
+  @include font;
+  text-shadow: 0 5px 5px rgba(255, 0, 0, 0);
+  float: right;
+}
+
+.app .image, .video {
+  width: 617px;
+  height: 65px;
+  margin: 26px 0 0 0;
+  font-size: 32px;
+  padding-left: 14px;
+  @include font;
+  text-shadow: 0 5px 5px rgba(0, 0, 0, 0);
+  float: right;
+}
+
+.description {
+  width: 618px;
+  height: 171px;
+  margin: 26px 0 0 0;
+  font-size: 33px;
+  padding-left: 13px;
+  padding-top: 13px;
+  resize:	none;
+  @include font;
+  text-shadow: 0 5px 5px rgba(255, 0, 0, 0);
+  float: right;
+}
+
+.mistake{
+  float: right;
+  margin-left: 204px;
+}
+
+.container__button{
+  color: white;
+  text-align:center;
+  text-transform: uppercase;
+  width: 200px;
+  padding: 10px 30px;
+  font-size: 24px;
+  @include font;
+  margin-top: 164px;
+  margin-left: 29px;
+  border-radius: 8px;
+  float: right;
+  margin-right: 62px;
+  cursor: pointer;
+  @include gradient;
+
+  &--back{
+    margin: 0 0 0 0;
+    float: left;
+    height: fit-content;
+    background: none;
+  }
+}
+
+.container__logo {
+  width: 130px;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-left: 8px;
+  font-style: italic;
+  text-transform: uppercase;
+  float: left;
+}
+
+footer .mainfooter {
+  height: 60px;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  display: flex;
+}
+
+footer .mainfooter .footer1 {
+  width: 1060px;
+  letter-spacing: 1px;
+  margin-top: 33px;
+}
 

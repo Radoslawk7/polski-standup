@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'whatwg-fetch';
 import { HashLink as HashLink } from 'react-router-hash-link';
-import './App.scss';
+import '../styles/main.scss';
 
 import {
     HashRouter,

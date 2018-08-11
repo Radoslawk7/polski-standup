@@ -1,0 +1,133 @@
+@import 'mixins';
+
+
+.appy header .container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.gallery {
+  display: flex;
+  justify-content: flex-start;
+  width: 600px;
+  height: 700px;
+  padding-top: 132px;
+  float: left;
+}
+
+.gallery .slider{
+  max-height: 650px;
+  max-width: 500px;
+  width: 500px;
+  object-fit: cover;
+}
+
+.next {
+  width: 30px;
+  height: 30px;
+  border-width: 4px 4px 0 0;
+  content: '';
+  border-style: solid solid none none;
+  transform: rotate(45deg);
+  border-color:white;
+  cursor: pointer;
+  margin-top: 250px;
+  background: none;
+  outline: none;
+}
+
+.prev {
+  width:30px;
+  height: 30px;
+  border-width: 4px 4px 0 0;
+  content: '';
+  border-style: solid solid none none;
+  transform: rotate(225deg);
+  border-color:white;
+  cursor: pointer;
+  margin-top: 250px;
+  background: none;
+  outline: none;
+}
+
+.appy header{
+  background-repeat: no-repeat;
+  background-image: url('../background/plyta03.jpeg');
+  height: 1000px;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.aside{
+  float: left;
+  display: flex;
+  flex-direction: column;
+}
+
+.appy header .container .container__text {
+  width: 600px;
+  height: 499px;
+  font-size: 30px;
+  margin-top: 47px;
+  text-align: center;
+
+  &--headline {
+    margin: 97px 0 0 95px;
+    font-size: 3rem;
+    width: 373px;
+    height: 70px;
+    float: right;
+  }
+}
+
+.appy main .container .container__text {
+  height: 280px;
+  width: 470px;
+  color: black;
+  text-shadow:none;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.appy main .container{
+  margin-bottom: 25px;
+}
+
+.appy main .video{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.appy .video {
+  width: 617px;
+  height: 65px;
+  margin: 26px 0 26px 0;
+  font-size: 32px;
+  padding-left: 14px;
+  @include font;
+  text-shadow: 0 5px 5px rgba(0, 0, 0, 0);
+  float: right;
+}
+
+.youTube{
+  display: flex;
+  justify-content: space-between;
+}
+
+.appy footer{
+  background-repeat: no-repeat;
+  background-image: url('../background/mike.jpeg');
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
