@@ -1,0 +1,132 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Abelard Giza",
+      "firstText": "Polski reżyser teatralny i filmowy, scenarzysta oraz stand-uper. Założyciel i lider nieistniejącego już Kabaretu Limo. Autor tekstów do magazynu satyrycznego „Chichot” oraz kilku programów telewizyjnych. W 2007 roku utworzył Grupę Impact, która zajmuje się produkcją filmową. Na swoim koncie ma takie produkcje jak „W stepie szerokim” oraz „Swing”. W stand-upowym dorobku ma takie programy jak „Proteus Vulgaris” czy obecnie gramy „Ludzie trzymajcie kapelusze”, który to tytuł wymyśliła jego córka :)",
+      "secondText": "Jako wyróżnienie dla jego twórczości należy uznać zainstnienie na... Wikipedii ;) Jest jedynym stand-uperem w kraju, który został wyszczególniony w tej encyklopedii internetowej. Jest to oczywiście zasługą całokształtu jego twórczości artystycznej.",
+      "photos": [
+        "../Photos/Giza/giza.jpg",
+        "../Photos/Giza/giza1.jpg",
+        "../Photos/Giza/giza2.jpeg",
+        "../Photos/Giza/giza3.jpg",
+        "../Photos/Giza/giza4.jpg"
+      ],
+      "youTube": "https://www.youtube.com/embed/WkxQJI1ZqFY"
+    },
+    {
+      "id": 2,
+      "name": "Kacper Ruciński",
+      "firstText": "Jako początek jego stand-upowej kariery należy uznać występ w „Stand up. Zabij mnie śmiechem”, który premierę miał w 2010 roku. Kacprowi niestety nie udało się wygrać programu, ale sam występ zapewnił mu dość dużą popularność na początku jego kariery dzięki charyźmie oraz błyskotliwemu, a czasem bezczelnemu sposobowi i rodzajowi żartu. Razem z Katarzyną Piasecką i Abelardem Gizą wyspęują w programach Stand-up Comedy „Bez Cenzury”.",
+      "secondText": "W chwili obecnej w swoich występach prezentuje program „Góg jest mięsożerny”. Jako ciekawostkę należy wspomnieć o jego udziale w krótkometrażowej produkcji filmowej Abelarda Gizy pt. „Swing”.",
+      "photos": [
+        "../Photos/Ruciński/Ruciński.jpg",
+        "../Photos/Ruciński/Ruciński1.jpg",
+        "../Photos/Ruciński/Ruciński2.jpg",
+        "../Photos/Ruciński/Ruciński3.jpg",
+        "../Photos/Ruciński/Ruciński4.jpg"
+      ],
+      "youTube": "https://www.youtube.com/embed/cfMYePJ5hkU"
+    },
+    {
+      "id": 3,
+      "name": "Rafał Pacześ",
+      "firstText": "Z pochodzenia Łodzianin. Brał udział w programach telewizyjnych takich jak „Tylko dla dorosłych” i „Kuba Wojewódzki”. Posiada niesamowitą umiejętność tworzenia dziwnych relacji z publiczością. Jego częste anegdoty do poszczególnych widzów potrafią stworzyć całkowicie nowy program oparty jedynie na improwizacji i obecnej sytuacji na sali. „Zaczynam rozumieć”, to tytuł jego programu przez wielu uważanych jako majstersztyk jego twórczości.",
+      "secondText": "Obecnej w swoich występach prezentuje program „Puder do cery zimnej”, w którym opowie o próbach ewakuowania się zarówno z popularnych escaperoomów jak i własnej kamienicy. Pokaże na co zwracać uwagę przy zakupie mieszkania lub działki inwestycyjnej :D.",
+      "photos": [
+        "../Photos/Pacześ/Pacześ.jpg",
+        "../Photos/Pacześ/Pacześ1.jpg",
+        "../Photos/Pacześ/Pacześ2.jpg",
+        "../Photos/Pacześ/Pacześ3.jpg",
+        "../Photos/Pacześ/Pacześ4.jpg"
+      ],
+      "youTube": "https://www.youtube.com/embed/M4ANTgkixNE"
+    },
+    {
+      "id": 4,
+      "name": "Łukasz Lodkowski",
+      "firstText": "„Lotek”, bo taką ma ksywke artystyczą z pochodzenia jest Warszawiakiem. Członek grupy „Stand-up Polska”. Często występuje wraz z takimi gwiazdami jak Abelard Giza, Katarzyna Piasecka czy Rafał Pacześ. Szczególnie uwielbiany przez tego ostatniego, często staje się obiektem żartów innych stend-uperów. Na każdym roast-cie, w którym bierzee udział pewne jest, że program połowy wystepujących będzie oparty na żartach właśneio z niego. Jego program „W punkt” jest bardzo lubiany przez widzów",
+      "secondText": "Niezwykle charyzmatyczny czlowiek, posiadający wielki dystans do samego siebie. Dużą część swoich żartów często opiera na własnych historiach i przygodach  życia. DLa niego jak w samochodzie działają spryskiwacze, to jest z nim wszystko w porządku ;)",
+      "photos": [
+        "../Photos/Lodkowski/lodkowski.jpeg",
+        "../Photos/Lodkowski/lodkowski1.jpg",
+        "../Photos/Lodkowski/lodkowski2.jpg",
+        "../Photos/Lodkowski/lodkowski3.jpg",
+        "../Photos/Lodkowski/lodkowski4.jpeg"
+      ],
+      "youTube": "https://www.youtube.com/embed/5nWZXkg0v-E"
+    },
+    {
+      "id": 5,
+      "name": "Wiolka Walaszczyk",
+      "firstText": "Swoją sceniczną karierę zaczynała w trójmiejskim teatrze improwizacji „W Gorącej Wodzie Kompani”, gdzie występowała między innymi z Szymonem Jachimkiem, Kacprem Rucińskim czy Wojtkiem Tremiszewskim (założyciel grupy). Po rozpadzie grupy zaczęła solową karierę jako stend-uperka. Jedna z niewielu kobiet w świecie polskiej sceny. Próbowała rozpocząć karierę teatralną, niestey egzaminy kwalifikacyjne „przestała w kuchni” :)",
+      "secondText": "Twarda babka z dużym dystansem do siebie i swoich najgorszych koszmarów. Jej występ u Michała Leji totalnie mnie zniszczył. Nie wiedziałem, że o tak traumatycznych przejściach można mówić publicznie przy tak dużej grupie nieznanych ci ludzi.",
+      "photos": [
+        "../Photos/Walaszczyk/walaszczyk.jpeg",
+        "../Photos/Walaszczyk/walaszczyk1.jpg",
+        "../Photos/Walaszczyk/walaszczyk2.jpg",
+        "../Photos/Walaszczyk/walaszczyk3.jpg",
+        "../Photos/Walaszczyk/walaszczyk4.jpg"
+      ],
+      "youTube": "https://www.youtube.com/embed/FbfxxufnWEk"
+    },
+    {
+      "id": 6,
+      "name": "Adam Van Bendler",
+      "firstText": "Adam Van Bendler to komik z wieloletnim doświadczeniem. Ma za sobą kilkaset występów Stand-upowych w całej Polsce. Był komediową gwiazdą w takich programach jak Comedy Central,Kuba Wojewódzki czy na antenie TVP Rozrywka. Uznawany za charyzmatycznego stand-upera oraz konferansjera, który uświetni każdą imprezę, doda nutkę czarnego humoru i rozrusza towarzystwo.",
+      "secondText": "Adam to nie tylko komik z wieloletnim doświadczeniem, ale również wieloletni You-Tuber. Szerokie grono jego fanów rośnie z każdymrokiem a wszystkie filmy z jego występów Stand-upowych mają na YouTube łącznie ponad 3,5miliona wyświetleń! Natomiast liczba wyświetleń wszystkich jego projektów to prawie 10 mln !!!",
+      "photos": [
+        "../Photos/Van_Bendler/van%20_Bendler.jpg",
+        "../Photos/Van_Bendler/van_Bendler1.jpg",
+        "../Photos/Van_Bendler/van_Bendler2.jpg",
+        "../Photos/Van_Bendler/van_Bendler3.jpg",
+        "../Photos/Van_Bendler/van_Bendler4.jpg"
+
+      ],
+      "youTube": "https://www.youtube.com/embed/2u4vQ51JSM8"
+    },
+    {
+      "id": 7,
+      "name": "Bartosz Zalewski",
+      "firstText": "Wrocławski stand-uper, członek grupy „Stand-up Polska”, swoja karierę zaczynał w 2010 roku od występów w nieistniejącym już Wrocławskim pubie Dymek z Papierosa. W chwili obecnej mieszka w Warszawie, gdzie lokalnie występuje z swoimi programami. Uwielbia jeździć po kraju z występami, szczególnie w większym gronie artystów. Uwielbia, jak publiczność jest zadowolona.",
+      "secondText": "Stend-up traktuje jako dopełnienie życia po pracy. Nie jest on jego źródłem utrzymania a sposobem na spędzanie czasu i czerpania szcześcia z życia. Uwielbia spontaniczne występy, improwizację i kontakt z publicznością",
+      "photos": [
+        "../Photos/Zalewski/zalewski.jpg",
+        "../Photos/Zalewski/zalewski1.jpg",
+        "../Photos/Zalewski/zalewski2.jpg",
+        "../Photos/Zalewski/zalewski3.png",
+        "../Photos/Zalewski/zalewski4.jpg"
+
+      ],
+      "youTube": "https://www.youtube.com/embed/ki3Kn2gRhYY"
+    },
+    {
+      "id": 8,
+      "name": "Olka Szczęśniak",
+      "firstText": "„”",
+      "secondText": "",
+      "photos": [
+        "../Photos//",
+        "../Photos/Lodkowski/lodkowski1.jpg",
+        "../Photos/Pacześ/Pacześ2.jpg",
+        "../Photos/Pacześ/Pacześ3.jpg",
+        "../Photos/Pacześ/Pacześ4.jpg"
+      ],
+      "youTube": ""
+    },
+    {
+      "id": 9,
+      "name": "",
+      "firstText": "„”",
+      "secondText": "",
+      "photos": [
+        "../Photos//",
+        "../Photos/Lodkowski/lodkowski1.jpg",
+        "../Photos/Pacześ/Pacześ2.jpg",
+        "../Photos/Pacześ/Pacześ3.jpg",
+        "../Photos/Pacześ/Pacześ4.jpg"
+      ],
+      "youTube": ""
+    }
+  ]
+}
