@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Abelard Giza",
-      "firstText": "Polski reżyser teatralny i filmowy, scenarzysta oraz stand-uper. Założyciel i lider nieistniejącego już Kabaretu Limo. Autor tekstów do magazynu satyrycznego „Chichot” oraz kilku programów telewizyjnych. W 2007 roku utworzył Grupę Impact, która zajmuje się produkcją filmową. Na swoim koncie ma takie produkcje jak „W stepie szerokim” oraz „Swing”. W stand-upowym dorobku ma takie programy jak „Proteus Vulgaris” czy obecnie gramy „Ludzie trzymajcie kapelusze”, który to tytuł wymyśliła jego córka :)",
+      "firstText": "Polski reżyser teatralny i filmowy, scenarzysta oraz stand-uper. Założyciel i lider nieistniejącego już Kabaretu Limo. Autor tekstów do magazynu satyrycznego „Chichot” oraz kilku programów telewizyjnych. W 2007 roku utworzył Grupę filmową Impact. Na swoim koncie ma takie produkcje jak „W stepie szerokim” oraz „Swing”. W stand-upowym dorobku ma takie programy jak „Proteus Vulgaris” czy obecnie gramy „Ludzie trzymajcie kapelusze”, który to tytuł wymyśliła jego córka :)",
       "secondText": "Jako wyróżnienie dla jego twórczości należy uznać zainstnienie na... Wikipedii ;) Jest jedynym stand-uperem w kraju, który został wyszczególniony w tej encyklopedii internetowej. Jest to oczywiście zasługą całokształtu jego twórczości artystycznej.",
       "photos": [
         "../Photos/Giza/giza.jpg",
@@ -12,7 +12,7 @@
         "../Photos/Giza/giza3.jpg",
         "../Photos/Giza/giza4.jpg"
       ],
-      "youTube": "https://www.youtube.com/embed/WkxQJI1ZqFY"
+      "youTube": "https://www.youtube.com/embed/F-06ZUY7b_A"
     },
     {
       "id": 2,
@@ -45,7 +45,7 @@
     {
       "id": 4,
       "name": "Łukasz Lodkowski",
-      "firstText": "„Lotek”, bo taką ma ksywke artystyczą z pochodzenia jest Warszawiakiem. Członek grupy „Stand-up Polska”. Często występuje wraz z takimi gwiazdami jak Abelard Giza, Katarzyna Piasecka czy Rafał Pacześ. Szczególnie uwielbiany przez tego ostatniego, często staje się obiektem żartów innych stand-uperów. Na każdym roast-cie, w którym bierzee udział pewne jest, że program połowy wystepujących będzie oparty na żartach właśneio z niego. Jego program „W punkt” jest bardzo lubiany przez widzów",
+      "firstText": "„Lotek”, bo taką ma ksywke artystyczą z pochodzenia jest Warszawiakiem. Członek grupy „Stand-up Polska”. Często występuje wraz z takimi gwiazdami jak Abelard Giza, Katarzyna Piasecka czy Rafał Pacześ. Szczególnie uwielbiany przez tego ostatniego, często staje się obiektem żartów innych stand-uperów. Na każdym roast-cie, w którym bierzee udział pewne jest, że program połowy wystepujących będzie oparty na żartach właśneio z niego. Jego program „W punkt” jest bardzo lubiany przez widzów.",
       "secondText": "Niezwykle charyzmatyczny czlowiek, posiadający wielki dystans do samego siebie. Dużą część swoich żartów często opiera na własnych historiach i przygodach  życia. DLa niego jak w samochodzie działają spryskiwacze, to jest z nim wszystko w porządku ;)",
       "photos": [
         "../Photos/Lodkowski/lodkowski.jpeg",
@@ -81,7 +81,6 @@
         "../Photos/Van_Bendler/van_Bendler2.jpg",
         "../Photos/Van_Bendler/van_Bendler3.jpg",
         "../Photos/Van_Bendler/van_Bendler4.jpg"
-
       ],
       "youTube": "https://www.youtube.com/embed/2u4vQ51JSM8"
     },
@@ -96,7 +95,6 @@
         "../Photos/Zalewski/zalewski2.jpg",
         "../Photos/Zalewski/zalewski3.png",
         "../Photos/Zalewski/zalewski4.jpg"
-
       ],
       "youTube": "https://www.youtube.com/embed/ki3Kn2gRhYY"
     },
@@ -111,7 +109,6 @@
         "../Photos/Szczęśniak/szczesniak2.jpg",
         "../Photos/Szczęśniak/szczesniak3.jpg",
         "../Photos/Szczęśniak/szczesniak4.jpg"
-
       ],
       "youTube": "https://www.youtube.com/embed/_VGb1yVU0aY"
     },
@@ -126,7 +123,6 @@
         "../Photos/Kopiec/kopiec2.jpg",
         "../Photos/Kopiec/kopiec3.jpg",
         "../Photos/Kopiec/kopiec4.jpg"
-
       ],
       "youTube": "https://www.youtube.com/embed/-NE5NgUckFY"
     }

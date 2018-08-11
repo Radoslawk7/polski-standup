@@ -1,6 +1,6 @@
-@import 'globals/reset';
-@import 'rwd';
+//@import 'reset';
 @import 'SubPage';
+@import 'rwd';
 @import 'mixins';
 
 
@@ -92,18 +92,28 @@ nav a:-webkit-any-link {
   width: 681px;
   font-size: 40px;
   float: right;
-  margin-top: 47px;
+  margin-top: 40px;
+  margin-bottom: 20px;
   text-align: center;
 
   &--headline {
-    margin: 300px 0 0 0;
+    margin: 0 0 0 0;
     font-size: 3rem;
     width: 300px;
     height: 70px;
     float: left;
-
   }
 }
+
+.app{
+  .container__text{
+    &--headline{
+      text-shadow: 5px 5px 5px darkgrey;
+      color: black;
+    }
+  }
+}
+
 
 //---------------------------------------------------------MAIN
 
